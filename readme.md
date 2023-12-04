@@ -1,4 +1,4 @@
-# machine leanring project : Happy learning 
+# machine leanring project :
 # artifacts : In artifacts folder, we generally save intermediatary file like whole data : divided into 
 # train , test ,validation data .
 
